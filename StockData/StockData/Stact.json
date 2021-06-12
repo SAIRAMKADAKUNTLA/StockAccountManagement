@@ -1,0 +1,30 @@
+{
+  "Stack_Account": [
+    {
+      "StockName": "BitCoin",
+      "NumOfShares": 100,
+      "SharePrice": 2000
+    },
+    {
+      "StockName": "Tata",
+      "NumOfShares": 150,
+      "SharePrice": 2500
+    },
+    {
+      "StockName": "JSW",
+      "NumOfShares": 200,
+      "SharePrice": 1500
+    },
+    {
+      "StockName": "MRF",
+      "NumOfShares": 50,
+      "SharePrice": 20000
+    },
+    {
+      "StockName": "LemonTree",
+      "NumOfShares": 100,
+      "SharePrice": 5000
+    }
+  ]
+
+}
